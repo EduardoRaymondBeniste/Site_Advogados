@@ -20,6 +20,8 @@ Duquesa - Gestão Empresarial: O motor para o início de qualquer trabalho corpo
 
 Duquesa - Workflow: Focado em otimizar processos internos.
 
+(A sere  Dukeza tem como uma fonte de Referencia dos meus estudos na Tipcode com o meu mentor Alisson Suassuna)
+
 🚀 Palavra de Impacto
 "A tecnologia é a ferramenta, mas a conexão humana é o resultado. Não construo apenas sites; construo portas de entrada para o sucesso do seu negócio."
 
